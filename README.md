@@ -1,4 +1,4 @@
 # IOS Battleship
 
-IOS Battleship created with Swift
+IOS Battleship created with Swift.
 
